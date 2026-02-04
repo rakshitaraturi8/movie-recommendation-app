@@ -1,6 +1,9 @@
+# Core libraries
 streamlit
+requests
 pandas
-numpy
+numpy>=1.18.0
+
+# Machine Learning
 scikit-learn
 scikit-surprise
-requests
