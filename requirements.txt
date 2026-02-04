@@ -1,6 +1,2 @@
-streamlit
-requests
-pandas
-numpy<2.0.0
-scikit-learn
-scikit-surprise
+
+
