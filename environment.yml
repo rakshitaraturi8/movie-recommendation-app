@@ -1,0 +1,11 @@
+name: movie-app
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy<2.0.0
+  - pandas
+  - scikit-learn
+  - scikit-surprise
+  - streamlit
+  - requests
